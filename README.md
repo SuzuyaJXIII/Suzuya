@@ -1,2 +1,2 @@
-# Suzuya
-Something
+Привет, Мир. 
+Начинаю свой путь в Data Science.
