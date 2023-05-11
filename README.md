@@ -1,2 +1,4 @@
 Привет, Мир. 
-Начинаю свой путь в Data Science.
+Я начинающий ML-специалист. 
+Мои контакты:
+tg - [@fakatonymontana](https://t.me/fakatonymontana/)
