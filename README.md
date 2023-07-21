@@ -4,4 +4,4 @@
 
 Мои контакты:
 
-tg - [@fakatonymontana](https://t.me/fakatonymontana/)
+tg - https://t.me/suzuyajxiii
